@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "build",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+    //install -> npm i reflect-metadata --save
+  },
+  "include": ["src/**/*"]
+}
